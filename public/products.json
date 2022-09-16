@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": "lunch",
+    "price": 120,
+    "name": "Beef Stack",
+    "stock": 20,
+    "img": "https://i.ibb.co/hDP6Kk7/lunch1.png"
+  },
+  {
+    "id": 2,
+    "category": "lunch",
+    "price": 130,
+    "name": "Salmon With Peppers",
+    "stock": 22,
+    "img": "https://i.ibb.co/ftwRdK4/lunch2.png"
+  },
+  {
+    "id": 3,
+    "category": "lunch",
+    "price": 120,
+    "name": "Beef Stack",
+    "stock": 20,
+    "img": "https://i.ibb.co/y5KVZ4v/lunch3.png"
+  },
+  {
+    "id": 4,
+    "category": "lunch",
+    "price": 120,
+    "name": "Beef Stack",
+    "stock": 20,
+    "img": "https://i.ibb.co/7C4rsM1/lunch4.png"
+  },
+  {
+    "id": 5,
+    "category": "lunch",
+    "price": 120,
+    "name": "Beef Stack",
+    "stock": 20,
+    "img": "https://i.ibb.co/fxnVNGY/lunch5.png"
+  },
+  {
+    "id": 6,
+    "category": "lunch",
+    "price": 120,
+    "name": "Beef Stack",
+    "stock": 20,
+    "img": "https://i.ibb.co/BPdSjbP/lunch6.png"
+  },
+  {
+    "id": 7,
+    "category": "dinner",
+    "price": 180,
+    "name": "Fish Salad",
+    "stock": 20,
+    "img": "https://i.ibb.co/VW9D8Ps/dinner2.png"
+  },
+  {
+    "id": 8,
+    "category": "dinner",
+    "price": 130,
+    "name": "Beef Stack Salad",
+    "stock": 20,
+    "img": "https://i.ibb.co/6yB0W00/dinner1.png"
+  },
+  {
+    "id": 9,
+    "category": "dinner",
+    "price": 126,
+    "name": "Chiken Stack",
+    "stock": 20,
+    "img": "https://i.ibb.co/M7bXpbx/dinner3.png"
+  },
+  {
+    "id": 10,
+    "category": "dinner",
+    "price": 128,
+    "name": "Beef Stack",
+    "stock": 20,
+    "img": "https://i.ibb.co/6wVYpt7/dinner4.png"
+  },
+  {
+    "id": 11,
+    "category": "dinner",
+    "price": 120,
+    "name": "Ckiken Chia Salad",
+    "stock": 20,
+    "img": "https://i.ibb.co/WVKPqc4/dinner5.png"
+  },
+  {
+    "id": 12,
+    "category": "dinner",
+    "price": 100,
+    "name": "Vegetable Salad",
+    "stock": 20,
+    "img": "https://i.ibb.co/hmd8YDP/dinner6.png"
+  },
+  {
+    "id": 13,
+    "category": "breakfast",
+    "price": 120,
+    "name": "Egg Omlate",
+    "stock": 20,
+    "img": "https://i.ibb.co/dfZzWkC/breakfast1.png"
+  },
+  {
+    "id": 14,
+    "category": "breakfast",
+    "price": 140,
+    "name": "Bread With Fruits",
+    "stock": 20,
+    "img": "https://i.ibb.co/vhdmqpG/breakfast2.png"
+  },
+  {
+    "id": 15,
+    "category": "breakfast",
+    "price": 120,
+    "name": "Egg Sauces",
+    "stock": 20,
+    "img": "https://i.ibb.co/2YwWNGX/breakfast6.png"
+  }
+]
